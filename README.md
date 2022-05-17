@@ -1,0 +1,1 @@
+Firefox Extension to exit fullscreen when video ends.
